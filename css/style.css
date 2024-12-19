@@ -204,7 +204,7 @@ section:nth-child(odd) {
 }
 
 section#intro {
-  background-image: url("../img/intro/bg.jpg");
+  background-image: url("../img/bg/intro-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
